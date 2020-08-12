@@ -1,0 +1,11 @@
+{
+  "lofi1": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "lofi1",
+        "stream": true
+      }
+    ]
+    }
+}
